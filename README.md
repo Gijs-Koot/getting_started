@@ -1,16 +1,16 @@
 ## Overview
 
-23-6 Tools and project structure
+    23-6 Tools and project structure
 
-30-6 Data cleanup and exploration
+    30-6 Data cleanup and exploration
 
-7-7 Regression
+    7-7 Regression
 
-14-7 (Frederieke) Interpretation and summarizing
+    14-7 (Frederieke) Interpretation and summarizing
 
-28-7 (Frederieke) Model improvements
+    28-7 (Frederieke) Model improvements
 
-4-8 (2.5 hours) Worksession
+    4-8 (2.5 hours) Worksession
 
 1. Project structure and tools
 
